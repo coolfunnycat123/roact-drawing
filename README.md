@@ -23,5 +23,5 @@ A full drawing library implementation in Roact.
 ## 🖨️ Installation
 
 ```
-npm install richie0866/roact-drawing#1.0.0
+npm install coolfunnycat123/roact-drawing#1.0.0
 ```

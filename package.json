@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "0866",
   "license": "ISC",
-  "types": "out/index.d.ts",
+  "types": "types/index.d.ts",
   "files": [
     "out",
     "types/*.d.ts",
